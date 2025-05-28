@@ -1,4 +1,4 @@
-# Batch-Convert-RasterDataset-to-TIFF
+# Batch-Convert-RasterDataset-to-TIFF-Toolbox
 # 🗺️ Raster Conversion Toolbox
 
 This ArcGIS Python Toolbox (`.pyt`) automates the batch conversion of raster datasets (a fundamental type of geographic data that stores information as a grid of cells, also known as pixels) into GeoTIFF (`.tif`) format. The tool scans through a top-level directory, detects rasters in subfolders, and writes output files into structured subdirectories.
